@@ -35,6 +35,8 @@ All Part 1 planning artefacts are committed under `/docs`:
 ## Video
 - [ ] Add unlisted YouTube link here — walkthrough of the ERD, endpoint plan, and a live run of the
   SQL script in SSMS.
+<img width="1917" height="912" alt="workflow" src="https://github.com/user-attachments/assets/5003bd13-90a8-4e47-8021-32e59184c27d" />
+
 
 ## AI Disclosure
 - [ ] State briefly here which parts of this submission (if any) used AI assistance (e.g. planning,
